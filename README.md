@@ -14,6 +14,13 @@ Com mais de **4 anos de experiência** em desenvolvimento de software, atuo como
 - Bancos de dados relacionais e não relacionais:
   - **Oracle**, **SQL Server**, **MySQL**, **Firebird**, **Postgress**
   - **MongoDB** e **Paradox**
+    
+**Experiência em desenvolvimento Front-End**:
+- **JavaScript** e **TypeScript** para aplicações web modernas
+- **Angular** para construção de páginas simples
+- **React** para desenvolvimento de interfaces componentizadas
+- **Node.js** para desenvolvimento server-side e ferramentas
+
 **Atualmente expandindo** meus conhecimentos em **DevOps** e **Arquitetura Cloud**:
 - **Containerização**: Docker e Docker Compose
 - **Orquestração**: Kubernetes e gestão de clusters
@@ -34,6 +41,15 @@ Com mais de **4 anos de experiência** em desenvolvimento de software, atuo como
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Delphi](https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Front-End
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -49,6 +65,7 @@ Com mais de **4 anos de experiência** em desenvolvimento de software, atuo como
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebird](https://img.shields.io/badge/Firebird-FF4500?style=for-the-badge&logo=firebird&logoColor=white)
+
 
 ## 📫 Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://[www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/leandro-marqueti/))
