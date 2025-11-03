@@ -1,16 +1,19 @@
-## Hi there 👋
+## Olá, eu sou o Leandro João Marqueti! 👋
 
 <!--
-**leandromarqueti/leandromarqueti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desenvolvedor Back-End | .NET Specialist**  
+📍 Itajaí/SC | 🎓 Graduado em Análise e Desenvolvimento de Sistemas - IFSC
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 Sobre Mim
+
+Com mais de **4 anos de experiência** em desenvolvimento de software, atuei com Delphi e Python e hoje me especializo no ecossistema **.NET**:
+- **C#**, **.NET Core**, **ASP.NET**, MVC e .NET Framework
+- Desenvolvimento e integração de **APIs RESTful**
+- Bancos de dados relacionais e não relacionais:
+  - **Oracle**, **SQL Server**, **MySQL**, **Firebird**
+  - **MongoDB** e **Paradox**
+
+## 🔧 Stack & Ferramentas
 -->
