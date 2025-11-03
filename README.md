@@ -1,7 +1,7 @@
 ## Olá, eu sou o Leandro João Marqueti! 👋
 
-<!--
-💻 **Desenvolvedor Back-End | .NET Specialist**  
+
+💻 **Desenvolvedor Back-End| FullStack | .NET developer**  
 📍 Itajaí/SC | 🎓 Graduado em Análise e Desenvolvimento de Sistemas - IFSC
 
 ---
@@ -16,4 +16,3 @@ Com mais de **4 anos de experiência** em desenvolvimento de software, atuei com
   - **MongoDB** e **Paradox**
 
 ## 🔧 Stack & Ferramentas
--->
