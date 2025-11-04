@@ -29,11 +29,7 @@ Com mais de **4 anos de experiência** em desenvolvimento de software, atuo como
 - **Infrastructure as Code**: Terraform para provisionamento
 - **Observabilidade**: Monitoramento, logging e tracing distribuído
 - **Cloud**: Azure e AWS serviços
-
-**Aplicando Inteligência Artificial** para otimização do desenvolvimento:
-- **Automação inteligente**: Ferramentas de IA para geração, revisão e otimização de código
-- **Produtividade**: Aceleração do desenvolvimento e redução de tempo entre entregas
-- **Qualidade**: Melhoria contínua na qualidade do código e redução de bugs
+  
 ---
 ## 🔧 Stack & Ferramentas
 ### Back-End
