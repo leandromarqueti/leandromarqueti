@@ -25,9 +25,9 @@ Com mais de **4 anos de experiência** em desenvolvimento de software, atuo como
 - **Containerização**: Docker e Docker Compose
 - **Orquestração**: Kubernetes e gestão de clusters
 - **Service Mesh**: Istio e Linkerd para malha de serviços
-- **CI/CD**: Pipelines de integração e deploy contínuo
+- **CI/CD**: Pipelines de integração e deploy contínuo com Jenkins e GitHub Actions
 - **Infrastructure as Code**: Terraform para provisionamento
-- **Observabilidade**: Monitoramento, logging e tracing distribuído
+- **Observabilidade**: Serilog (logs estruturados), Prometheus + Grafana (métricas), Datadog APM, OpenTelemetry tracing
 - **Cloud**: Azure e AWS serviços
   
 ---
