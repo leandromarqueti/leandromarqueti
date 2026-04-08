@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre Mim
 
-Com mais de **4 anos de experiência** em desenvolvimento de software, atuo como desenvolvedor C#, Delphi e Python, me especializando no ecossistema **C#** e **.NET**:
+Com mais de **5 anos de experiência** em desenvolvimento de software, atuo como desenvolvedor C#, Delphi e Python, me especializando no ecossistema **C#** e **.NET**:
 - **C#**, **.NET Core**, **ASP.NET**, MVC e .NET Framework
 - Desenvolvimento e integração de **APIs RESTful**
 - Bancos de dados relacionais e não relacionais:
