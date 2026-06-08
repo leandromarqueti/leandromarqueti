@@ -66,20 +66,19 @@ Com mais de **5 anos de experiência** em desenvolvimento de software, atuo como
 
 ## 📊 Estatísticas
 
-<img
-    alight="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=leandromarqueti&show_icons=true&theme=radical&include_all_commits=false&commits_year=2025&title_color=FFD700&ring_color=FFD700&locale=pt-br"
-/>
-<img
-    alight="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromarqueti&theme=radical&layout=compact&title_color=FFD700&custom_title=Tecnologias"
-/>
+<p>
+    <div align="center">
+      <img
+        height="180"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=leandromarqueti&show_icons=true&theme=react&include_all_commits=true&locale=pt-br"
+      />
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <img
+        height="180"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leandromarqueti&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
+      />
+    </div>
+</p>
 
 ---
 
